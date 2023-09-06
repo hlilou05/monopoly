@@ -2,3 +2,7 @@ selling a property
 getting a percentage of earnings of a property(s)
 tax freedom from a property(s)
 building loans
+exchanging 2 blue cards for an orange one and 2 orange for a deep blue
+giving the earnings of x turns to the person you are in dept with (new turn money not included)
+mortgaging a property to the bank to get money (you will have one turn to buy it back or it's back on the market)
+getting a loan from a player/ agreement to pay them 2 turns later (with interest?)
